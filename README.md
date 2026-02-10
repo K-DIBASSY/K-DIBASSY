@@ -125,8 +125,8 @@ West African Senior School Certificate Exam (WASSCE) | 2018 – 2021
 ## 🌍 Languages
 
 * 🇬🇧 **English** (Proficient)
-*  **Mandinka** (Native)
-*  **Wollof** (Proficient)
+* MN **Mandinka** (Native)
+* WS **Wollof** (Proficient)
 
 
 
