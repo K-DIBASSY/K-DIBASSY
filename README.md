@@ -154,4 +154,3 @@ I'm always looking for internship opportunities and collaborative data projects!
 <p><strong>Open to:</strong> Internships • Data Analysis Projects • Research Collaborations</p>
 </div>
 
-Would you like me to help you draft a specialized "Projects" section for this profile based on the work you are doing for NAWEC?
