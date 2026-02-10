@@ -104,9 +104,6 @@ BSc. Data Science and Analytics | May 2023 – Present
 
 
 
-**The University of The Gambia** 
-BSc. Computer Science | January 2022 – April 2023 
-
 **Nusrat Senior Secondary School** 
 West African Senior School Certificate Exam (WASSCE) | 2018 – 2021 
 
