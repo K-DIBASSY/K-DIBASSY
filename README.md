@@ -5,7 +5,7 @@
 ## Specializing in predictive modeling, business intelligence, and data-driven problem solving
 
 > 
-> *Applying analytical rigor to transform raw data into actionable insights since 2022* 
+> *Applying analytical rigor to transform raw data into actionable insights* 
 > 
 > 
 
