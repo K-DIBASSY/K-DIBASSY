@@ -148,6 +148,6 @@ I'm always looking for internship opportunities and collaborative data projects!
 
 <div align="center">
 <p><em>"In God we trust, all others must bring data." – W. Edwards Deming</em></p>
-<p><strong>Open to:</strong> Internships • Data Science and  Analysis Projects • Research Collaborations</p>
+<p><strong>Open to:</strong> Full-time opportunities • Freelance Projects  • Data Science and  Analysis Projects • Research Collaborations</p>
 </div>
 
