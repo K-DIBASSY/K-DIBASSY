@@ -99,8 +99,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 **United States International University - Africa** 
 BSc. Data Science and Analytics | May 2023 – Present 
 
-* 
-**Awards:** Mastercard Foundation Scholarship.
+* **Awards:** Mastercard Foundation Scholarship.
 
 
 
