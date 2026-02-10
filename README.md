@@ -141,7 +141,8 @@ I'm always looking for internship opportunities and collaborative data projects!
 * 📧 [dibassykemo@gmail.com](mailto:dibassykemo@gmail.com) 
 
 
-* 📱 +254 743 525 735 
+* 📱 +254 743 525 735
+* 📱 +220 3481089
 
 
 
