@@ -137,7 +137,7 @@ West African Senior School Certificate Exam (WASSCE) | 2018 – 2021
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology and innovation!
 
-* 💼 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kemo-dibassy-a76827285) 
+* 💼 [LinkedIn](https://www.google.com/search?q=www.linkedin.com/in/kemo-dibassy) 
 
 
 * 📧 [dibassykemo@gmail.com](mailto:dibassykemo@gmail.com) 
