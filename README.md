@@ -81,15 +81,14 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 ## Data Science Intern | Gomindz Inc
 
-*June 2025 – Present*
+*January 2026 – Present*
 
-**HR Management System Marketing Dashboard** (Google Sheets API, ETL, Data Modeling, Dashboard Design)
+**HR Management System Marketing Dashboard** (Google Sheets, ETL, Data Modeling,Power Query, Power BI Dashboard Design)
 
 - 🎯 Solo-developed a production-ready, automated tracking system for the HR Management System Marketing Team to monitor and analyze client engagement in real-time
 - 📊 Built a seamless live data sync connection to Google Sheets, ensuring the dashboard always reflects the most current marketing interactions
 - 🔎 Designed dynamic filters and interactive visualizations to track engagement metrics across different client segments and timeframes
 - 🤖 Automated the reporting pipeline, eliminating manual effort required by the marketing team to compile weekly performance data
-- 📅 Developed performance monitoring views for conversion rates and client touchpoints to surface high-value opportunities
 
 ---
 
@@ -97,8 +96,8 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 | Layer | Technology |
 |---|---|
-| Data Source | Google Sheets (via API / Connector) |
-| Visualization | Power BI / Looker Studio / Streamlit / Tableau |
+| Data Source | Google Sheets |
+| Visualization | Power BI |
 | Process | ETL, Data Modeling, Dashboard Design |
 
 ---
@@ -109,27 +108,11 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 ---
 
-### ✨ Key Features
-
-**Live Data Sync**
-Built a seamless connection to Google Sheets to ensure the dashboard reflects the most current marketing interactions.
-
-**Interactive Analytics**
-Designed dynamic filters and visualizations to track engagement metrics across different client segments and timeframes.
-
-**Automated Reporting**
-Streamlined the reporting process, reducing the manual effort required by the marketing team to compile performance data.
-
-**Performance Monitoring**
-Provided a clear view of conversion rates and client touchpoints to help identify high-value opportunities.
-
----
-
 ### 💡 Business Impact
 
 - Reduced the team's weekly reporting time by **[X] hours**
 - Increased visibility into client follow-ups by **[X]%**
-- Enabled data-driven decision-making across **[X]+ client accounts**
+- Enabled data-driven decision-making across **71+ client engagements**
 
 
 ---
