@@ -110,8 +110,8 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 ### 💡 Business Impact
 
-- Reduced the team's weekly reporting time by **[X] hours**
-- Increased visibility into client follow-ups by **[X]%**
+- Reduced the team's weekly reporting time by **2 hours**
+- Increased visibility into client follow-ups by **40%**
 - Enabled data-driven decision-making across **71+ client engagements**
 
 
