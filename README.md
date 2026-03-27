@@ -83,28 +83,100 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 *January 2026 – Present*
 
-**NAWEC Utility Analytics & Forecasting Proposal (Python, XGBoost, Panel Data Regression, Gradio, Power BI)
-•	🎯 Proposal Objective: Design a comprehensive data science proposal to modernize how the National Water and Electricity Company (NAWEC) of The Gambia analyzes energy consumption, billing performance, and infrastructure outages across all regions.
-•	📉 Predictive Modeling: Developed a dual-model forecasting approach using XGBoost for non-linear consumption patterns and Panel Data Regression (Fixed Effects) to capture region-specific economic constants across The Gambia.
-•	🔄 ETL & Feature Engineering: Engineered a sophisticated pipeline to transform fragmented Excel sheets into a "Panel Data" structure, calculating cumulative outage impacts and temporal customer lifecycles.
-•	🔌 ML and Web Integration: Built an interactive Gradio web interface for scenario planning (e.g., "What-if" outage reductions) and embedded it directly into a Power BI dashboard via Web URL actions.
-•📊 Interactive Power BI dashboard: that serves as a one stop shop for all the analytics needs, and a action button to launch the gradio application for prediction
-________________________________________
-🛠 Tech Stack
-Layer	Technology
-Programming	Python (Pandas, NumPy, Statsmodels)
-Machine Learning	XGBoost, PanelOLS (LinearModels)
-Interactive UI	Gradio (Web Interface)
-BI & Visualization	Power BI (Field Parameters, DAX), Matplotlib
-Data Strategy	ETL, Econometric Modeling, Feature Engineering
-________________________________________
-📌 Project Overview
-This proposal project was developed to modernize how NAWEC analyzes electricity consumption and billing. By bridging the gap between raw data and machine learning, the system allows decision-makers to simulate the impact of infrastructure changes and outage durations on national revenue and energy demand in real-time.
-________________________________________
-📂 Key Deliverables Included in Proposal:
-•	Data Cleaning and Integration: A cleaned and integrated dataset that is suitable for 
-•	Regional Scenario Tool: A Gradio-based web interface for decision makers to plan what-if scenarios and predict energy consumption for each region separately
-•	Executive Dashboard: A Power BI interface featuring "Prediction Buttons" that link directly to the ML model.
+# NAWEC Utility Analytics & Forecasting Proposal
+
+**Python | XGBoost | Panel Data Regression | Gradio | Power BI**
+
+---
+
+## 🎯 Proposal Objective
+
+Design a comprehensive data science proposal to modernize how the National Water and Electricity Company (NAWEC) of The Gambia analyzes energy consumption, billing performance, and infrastructure outages across all regions.
+
+---
+
+## 📉 Predictive Modeling
+
+Developed a dual-model forecasting approach:
+- **XGBoost** for non-linear consumption patterns
+- **Panel Data Regression (Fixed Effects)** to capture region-specific economic constants across The Gambia
+
+---
+
+## 🔄 ETL & Feature Engineering
+
+Engineered a sophisticated pipeline to:
+- Transform fragmented Excel sheets into a unified **Panel Data** structure
+- Calculate **cumulative outage impacts**
+- Track **temporal customer lifecycles**
+
+---
+
+## 🔌 ML and Web Integration
+
+Built an interactive **Gradio web interface** for scenario planning (e.g., "What-if" outage reductions) and embedded it directly into a Power BI dashboard via **Web URL actions**.
+
+---
+
+## 📊 Interactive Power BI Dashboard
+
+Serves as a **one-stop shop** for all analytics needs, featuring an action button to launch the Gradio application for predictions.
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Programming** | Python (Pandas, NumPy, Statsmodels) |
+| **Machine Learning** | XGBoost, PanelOLS (LinearModels) |
+| **Interactive UI** | Gradio (Web Interface) |
+| **BI & Visualization** | Power BI (Field Parameters, DAX), Matplotlib |
+| **Data Strategy** | ETL, Econometric Modeling, Feature Engineering |
+
+---
+
+## 📌 Project Overview
+
+This proposal project was developed to modernize how NAWEC analyzes electricity consumption and billing. By bridging the gap between raw data and machine learning, the system allows decision-makers to simulate the impact of infrastructure changes and outage durations on national revenue and energy demand in **real-time**.
+
+---
+
+## 📂 Key Deliverables Included in Proposal
+
+### 1. Data Cleaning and Integration
+A cleaned and integrated dataset that is suitable for:
+- Time-series analysis
+- Panel data econometrics
+- Machine learning model training
+- Cross-regional benchmarking
+
+### 2. Regional Scenario Tool
+A **Gradio-based web interface** for decision-makers to:
+- Plan what-if scenarios
+- Predict energy consumption for each region separately
+- Adjust outage duration, customer counts, and infrastructure parameters
+- View real-time prediction results with confidence intervals
+
+### 3. Executive Dashboard
+A **Power BI interface** featuring:
+- **Prediction Buttons** that link directly to the ML model
+- Real-time KPI monitoring across all regions
+- Interactive visualizations for consumption trends and outage impacts
+- Drill-down capabilities for granular regional analysis
+
+---
+
+## 🚀 Impact
+
+- **Real-time decision-making** through integrated ML and BI tools
+- **Improved forecasting accuracy** with dual-model approach
+- **Enhanced regional planning** via scenario simulation
+- **Data-driven infrastructure investments** based on predictive insights
+
+---
+
+*This proposal transforms NAWEC's analytics capabilities from reactive reporting to proactive, predictive intelligence.*
 
 
 
