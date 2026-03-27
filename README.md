@@ -136,7 +136,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 - 🔎 Designed dynamic filters and interactive visualizations to track engagement metrics across different client segments and timeframes
 - 🤖 Automated the reporting pipeline, eliminating manual effort required by the marketing team to compile weekly performance data
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -146,13 +146,13 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 | Visualization | Power BI |
 | Process | ETL, Data Modeling, Dashboard Design |
 
----
+
 
 ### 📌 Project Overview
 
 > Developed an automated, interactive tracking system for the **HR Management System Marketing Team** to monitor and analyze client engagement. This project bridges the gap between raw operational data in Google Sheets and actionable visual insights, enabling the team to optimize their outreach strategies in real-time.
 
----
+
 
 ### 💡 Business Impact
 
