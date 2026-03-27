@@ -127,7 +127,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 - **Executive Dashboard:** A Power BI interface featuring "Prediction Buttons" that link directly to the ML model with real-time KPI monitoring
 
 
-
+---
 
 **HR Management System Marketing Dashboard** (Google Sheets, ETL, Data Modeling,Power Query, Power BI Dashboard Design)
 
