@@ -111,15 +111,6 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 
 
-### 💡 Business Impact
-
-- Enabled real-time scenario planning across **5+ administrative regions**
-- Reduced manual reporting efforts by **15+ hours per week** through automated ETL pipelines
-- Improved forecasting accuracy by **25%** using dual-model approach (XGBoost + Panel Regression)
-- Provided executive-level visibility into **billing performance and outage impacts** across all regions
-
-
-
 ### 📂 Key Deliverables
 
 - **Data Cleaning and Integration:** A cleaned and integrated dataset suitable for time-series analysis, panel data econometrics, and machine learning model training
