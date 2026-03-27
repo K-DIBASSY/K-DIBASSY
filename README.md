@@ -128,6 +128,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 
 
 
+
 **HR Management System Marketing Dashboard** (Google Sheets, ETL, Data Modeling,Power Query, Power BI Dashboard Design)
 
 - 🎯 Solo-developed a production-ready, automated tracking system for the HR Management System Marketing Team to monitor and analyze client engagement in real-time
