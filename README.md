@@ -91,7 +91,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 - 🔌 Built an interactive Gradio web interface for scenario planning (e.g., "What-if" outage reductions) and embedded it directly into a Power BI dashboard via Web URL actions
 - 📊 Created an executive Power BI dashboard serving as a one-stop shop for all analytics needs, featuring an action button to launch the Gradio application for predictions
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -103,13 +103,13 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 | BI & Visualization | Power BI (Field Parameters, DAX), Matplotlib |
 | Data Strategy | ETL, Econometric Modeling, Feature Engineering |
 
----
+
 
 ### 📌 Project Overview
 
 > Developed a comprehensive analytics solution to modernize how NAWEC analyzes electricity consumption and billing across The Gambia. This proposal bridges the gap between raw Excel audits and machine learning, enabling decision-makers to simulate the impact of infrastructure changes and outage durations on national revenue and energy demand in real-time.
 
----
+
 
 ### 💡 Business Impact
 
@@ -118,7 +118,7 @@ I am a motivated undergraduate student pursuing a degree in **Data Science and A
 - Improved forecasting accuracy by **25%** using dual-model approach (XGBoost + Panel Regression)
 - Provided executive-level visibility into **billing performance and outage impacts** across all regions
 
----
+
 
 ### 📂 Key Deliverables
 
